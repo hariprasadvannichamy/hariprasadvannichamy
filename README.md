@@ -118,43 +118,7 @@ AI-driven framework for identifying stealthy hardware Trojans using Graph Neural
 
 ---
 
-# 📊 GitHub Analytics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hariprasadvannichamy&show_icons=true&theme=github_dark&rank_icon=github"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=hariprasadvannichamy&theme=github-dark"/>
-
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariprasadvannichamy&layout=compact&theme=github_dark"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hariprasadvannichamy&theme=onedark&row=1&column=6"/>
-
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- Deep Learning
-- Edge AI
-- FPGA Design
-- Digital Twin Technologies
-- AI Hardware Acceleration
-
----
 
 # 🌐 Connect With Me
 
