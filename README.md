@@ -39,12 +39,87 @@ Electronics Engineering Student • AI • Embedded Systems • VLSI
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🔥 **AI Digital Twin 3D IC** | DeepONet-based thermal prediction, hotspot detection and optimization |
-| 🛡️ **Women Safety Wearable** | ESP32, GPS, Edge AI emergency monitoring system |
-| ⚡ **PolarFire SoC Discovery Kit** | FPGA development using Verilog HDL |
-| 💻 **Verilog HDL Designs** | ALU, FSM, UART, SPI, Counters, Registers |
+## 🏥 Telemedicine Services using PolarFire SoC Development Kit *(VDAT 2024)*
+
+**Problem:** Remote healthcare systems require secure and low-latency patient monitoring.
+
+**Solution:** Developed a PolarFire SoC–based telemedicine platform for real-time healthcare data processing.
+
+**Highlights**
+- AI-enabled edge diagnostics
+- Secure communication
+- Low-power embedded computing
+- FPGA-based implementation
+
+**Technologies:** PolarFire SoC • FPGA • Embedded Systems • Edge AI
+
+---
+
+## 🛡️ Next-Gen Smart Wearable Device for Women and Children's Safety Using Edge AI *(IEEE)*
+
+**Problem:** Victims in emergency situations may be unable to manually request help.
+
+**Solution:** Designed an Edge AI wearable capable of automatically detecting distress through audio and sensor analysis.
+
+**Highlights**
+- Automatic emergency detection
+- Real-time GPS tracking
+- SOS alert system
+- Embedded AI inference
+
+**Technologies:** ESP32 • Edge AI • IoT • GPS • Machine Learning
+
+🔗 IEEE Publication: https://ieeexplore.ieee.org/document/11183396
+
+---
+
+## 🚜 Autonomous Rover for Caterpillar Challenge 2026 *(IIT Madras)*
+
+**Problem:** Autonomous robots require reliable navigation in unfamiliar environments.
+
+**Solution:** Built an autonomous rover integrating sensor fusion with embedded navigation algorithms.
+
+**Highlights**
+- Autonomous navigation
+- Obstacle avoidance
+- Terrain analysis
+- Real-time decision making
+
+**Technologies:** Robotics • Embedded Systems • Sensors • Autonomous Navigation
+
+---
+
+## 🔐 Stateless AES Key Generation via Graph Neural Network–Driven Deterministic Physical Unclonable Intelligence *(IEEE)*
+
+**Problem:** Conventional cryptographic key storage is vulnerable to hardware attacks.
+
+**Solution:** Proposed a Graph Neural Network–assisted Physical Unclonable Function (PUF) framework for deterministic stateless AES key generation.
+
+**Highlights**
+- Hardware-based authentication
+- Lightweight cryptography
+- AI-assisted key generation
+- Tamper-resistant security
+
+**Technologies:** GNN • PUF • Cryptography • Hardware Security • AI
+
+🔗 IEEE Publication: https://ieeexplore.ieee.org/abstract/document/11608331
+
+---
+
+## 🛡️ Hybrid GNN–LLM Framework for Detecting and Blocking Low-Detectability Hardware Trojans in Complex IC Designs *(Research)*
+
+**Problem:** Stealthy hardware Trojans can evade conventional IC security verification methods.
+
+**Solution:** Developing a hybrid Graph Neural Network and Large Language Model framework for intelligent Trojan detection and mitigation.
+
+**Highlights**
+- AI-driven hardware security
+- Automated threat analysis
+- Scalable IC verification
+- Intelligent mitigation strategies
+
+**Technologies:** Graph Neural Networks • Large Language Models • VLSI • Hardware Security • AI
 
 ---
 
