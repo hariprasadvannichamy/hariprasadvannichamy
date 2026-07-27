@@ -1,19 +1,24 @@
 <h1 align="center">Hi 👋, I'm Hari Prasad V</h1>
 
 <h3 align="center">
-Electronics Engineering Student | AI • Embedded Systems • VLSI | IEEE Conference Author
+Electronics Engineering Student • AI • Embedded Systems • VLSI
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Electronics+Engineering+Student;AI+%7C+Embedded+Systems+%7C+VLSI;Machine+Learning+Enthusiast;Building+Intelligent+Hardware+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1200&color=00C2FF&center=true&vCenter=true&width=750&lines=AI+Research+Enthusiast;Embedded+Systems+Developer;VLSI+Engineer;Machine+Learning+Enthusiast;Building+Intelligent+Hardware+Solutions" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/hariprasadvannichamy">
-    <img src="https://img.shields.io/github/followers/hariprasadvannichamy?label=Followers&style=for-the-badge">
-  </a>
-  <img src="https://img.shields.io/badge/IEEE-Conference%20Author-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=for-the-badge">
+
+<a href="https://github.com/hariprasadvannichamy">
+<img src="https://img.shields.io/github/followers/hariprasadvannichamy?label=Followers&style=for-the-badge"/>
+
+</a>
+
+<img src="https://img.shields.io/badge/IEEE-Conference%20Author-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Research-success?style=for-the-badge"/>
+
 </p>
 
 ---
@@ -22,59 +27,28 @@ Electronics Engineering Student | AI • Embedded Systems • VLSI | IEEE Confer
 
 🎓 Final Year Electronics Engineering Student
 
-🔬 Passionate about Artificial Intelligence, Embedded Systems, Machine Learning, and VLSI Design.
+🤖 Passionate about Artificial Intelligence, Embedded Systems, Machine Learning, and VLSI Design.
 
-💡 Interested in developing intelligent hardware systems that combine AI with embedded computing.
+📄 IEEE Conference Author with research interests in AI-powered hardware systems.
 
-📄 Author of IEEE conference publications in VLSI and AI-based systems.
+💡 Interested in Digital Twin, Embedded AI, FPGA Design, and Edge Computing.
 
-🚀 Currently working on an AI-powered Digital Twin framework for thermal prediction and hotspot analysis in 3D Integrated Circuits.
+🚀 Currently developing an **AI-powered Digital Twin for 3D IC Thermal Management**.
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 AI Digital Twin for 3D IC Thermal Management
-
-- DeepONet-based Thermal Prediction
-- Hotspot Detection
-- AI-assisted Thermal Optimization
-- Python
-- Machine Learning
-
----
-
-## 🛡️ AI-Based Women Safety Wearable
-
-- ESP32
-- GPS Integration
-- Edge AI
-- Emergency Voice Detection
-- Embedded System Design
+| Project | Description |
+|---------|-------------|
+| 🔥 **AI Digital Twin 3D IC** | DeepONet-based thermal prediction, hotspot detection and optimization |
+| 🛡️ **Women Safety Wearable** | ESP32, GPS, Edge AI emergency monitoring system |
+| ⚡ **PolarFire SoC Discovery Kit** | FPGA development using Verilog HDL |
+| 💻 **Verilog HDL Designs** | ALU, FSM, UART, SPI, Counters, Registers |
 
 ---
 
-## ⚡ PolarFire SoC Discovery Kit
-
-- FPGA Development
-- Verilog HDL
-- Embedded Hardware Design
-
----
-
-## 💻 Verilog HDL Projects
-
-- ALU
-- Multiplexers
-- Counters
-- Registers
-- Finite State Machines
-- UART
-- SPI
-
----
-
-# 🛠️ Technical Skills
+# 🛠️ Tech Stack
 
 ### Programming Languages
 
@@ -86,12 +60,10 @@ Electronics Engineering Student | AI • Embedded Systems • VLSI | IEEE Confer
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow"/>
+<img src="https://skillicons.dev/icons?i=opencv"/>
 </p>
 
-- Scikit-learn
-- NumPy
-- Pandas
-- OpenCV
+Scikit-learn • NumPy • Pandas
 
 ### Embedded Systems
 
@@ -99,19 +71,13 @@ Electronics Engineering Student | AI • Embedded Systems • VLSI | IEEE Confer
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
 </p>
 
-- ESP32
-- PolarFire SoC
-- Embedded C
+ESP32 • Embedded C • Microcontrollers
 
 ### Hardware Design
 
-- Verilog HDL
-- SystemVerilog
-- FPGA
-- Digital Logic Design
-- Low Power VLSI
+Verilog HDL • SystemVerilog • FPGA • Digital Design • Low-Power VLSI
 
-### Development Tools
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
@@ -126,42 +92,42 @@ Electronics Engineering Student | AI • Embedded Systems • VLSI | IEEE Confer
 - Digital Twin
 - VLSI Design
 - FPGA Systems
-- Edge Computing
 - Machine Learning
+- Edge Computing
 
 ---
 
 # 📄 Publications
 
-- IEEE Conference Publication – Low Power VLSI Design
-- AI Digital Twin Research
-- AI-based Embedded Intelligent Systems
+- 📑 IEEE Conference Publication – Low Power VLSI Design
+- 📑 AI Digital Twin Research
+- 📑 AI-Based Embedded Intelligent Systems
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hariprasadvannichamy&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hariprasadvannichamy&show_icons=true&theme=github_dark&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hariprasadvannichamy&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=hariprasadvannichamy&theme=github-dark"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariprasadvannichamy&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariprasadvannichamy&layout=compact&theme=github_dark"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hariprasadvannichamy&theme=algolia&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=hariprasadvannichamy&theme=onedark&row=1&column=6"/>
 
 </p>
 
@@ -169,15 +135,15 @@ Electronics Engineering Student | AI • Embedded Systems • VLSI | IEEE Confer
 
 # 🌱 Currently Learning
 
-- Advanced Machine Learning
+- Deep Learning
 - Edge AI
-- AI Hardware Acceleration
 - FPGA Design
 - Digital Twin Technologies
+- AI Hardware Acceleration
 
 ---
 
-# 📫 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 
@@ -195,7 +161,7 @@ Electronics Engineering Student | AI • Embedded Systems • VLSI | IEEE Confer
 
 <p align="center">
 
-### ⭐ Thanks for visiting my GitHub Profile!
+⭐ **Thanks for visiting my GitHub profile!**
 
 *"Building intelligent hardware solutions powered by Artificial Intelligence."*
 
