@@ -85,23 +85,36 @@ Verilog HDL • SystemVerilog • FPGA • Digital Design • Low-Power VLSI
 
 ---
 
-# 📚 Research Interests
+# 🔬 Research & Publications
 
-- Artificial Intelligence
-- Embedded AI
-- Digital Twin
-- VLSI Design
-- FPGA Systems
-- Machine Learning
-- Edge Computing
+### 📄 Next-Gen Smart Wearable Device for Women and Children's Safety Using Edge AI
+**Status:** ✅ Published in IEEE Xplore
+
+AI-powered wearable safety system for real-time emergency detection and response using Edge AI and embedded technologies.
+
+**Research Areas:** Edge AI • Embedded Systems • IoT • Women Safety • ESP32
+
+🔗 IEEE Xplore: https://ieeexplore.ieee.org/document/11183396
 
 ---
 
-# 📄 Publications
+### 📄 Stateless AES Key Generation via Graph Neural Network–Driven Deterministic Physical Unclonable Intelligence
+**Status:** ✅ Published in IEEE Xplore
 
-- 📑 IEEE Conference Publication – Low Power VLSI Design
-- 📑 AI Digital Twin Research
-- 📑 AI-Based Embedded Intelligent Systems
+Novel cryptographic key generation framework combining Graph Neural Networks with deterministic Physical Unclonable Functions (PUFs) for secure hardware authentication.
+
+**Research Areas:** Hardware Security • Cryptography • Graph Neural Networks • PUF • AI
+
+🔗 IEEE Xplore: https://ieeexplore.ieee.org/abstract/document/11608331
+
+---
+
+### 📝 A Hybrid GNN–LLM Framework for Detecting and Blocking Low-Detectability Hardware Trojans in Complex IC Designs
+**Status:** 🚧 Research in Progress
+
+AI-driven framework for identifying stealthy hardware Trojans using Graph Neural Networks and Large Language Models in complex integrated circuit designs.
+
+**Research Areas:** Hardware Security • GNN • LLM • VLSI • Artificial Intelligence
 
 ---
 
